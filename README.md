@@ -4,7 +4,7 @@
 I have downloaded the msi file from the [Go lang website](https://go.dev/dl/) and installed it
 
 ### To check the go version
-'go version'
+`go version`
 
 ### To get the sdk
 'go get -u github.com/apache/beam/sdks/v2/go/pkg/beam'
